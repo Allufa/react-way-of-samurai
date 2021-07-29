@@ -42,6 +42,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+<<<<<<< HEAD
   "browserslist": {
     "production": [
       ">0.2%",
@@ -61,3 +62,16 @@
     "react-test-renderer": "^16.13.1"
   }
 }
+=======
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+<<<<<<< HEAD
+}
+>>>>>>> parent of d4195ef (09: import-export;)
+=======
+}
+>>>>>>> parent of d4195ef (09: import-export;)
